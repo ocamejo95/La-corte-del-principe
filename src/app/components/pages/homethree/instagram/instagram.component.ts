@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import {Component, OnInit} from '@angular/core';
 import insta from '../../../../data/insta.json';
 
 @Component({
@@ -8,7 +8,9 @@ import insta from '../../../../data/insta.json';
 })
 export class InstagramComponent implements OnInit {
 
-  constructor() { } 
+  constructor() {
+  }
+
   public insta: { id: number }[] = insta;
 
   ngOnInit(): void {

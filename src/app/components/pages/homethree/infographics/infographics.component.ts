@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import {Component, OnInit} from '@angular/core';
 
 @Component({
   selector: 'app-infographics',
@@ -7,29 +7,26 @@ import { Component, OnInit } from '@angular/core';
 })
 export class InfographicsComponent implements OnInit {
 
-  constructor() { }
+  constructor() {
+  }
+
   successpost = [
     {
-      icon: "flaticon-employee",
+      icon: 'flaticon-pizza-slice',
       count: 24934,
-      title: "Happy Customers"
+      title: 'Italiana'
     },
     {
-      icon: "flaticon-pizza-slice",
+      icon: 'flaticon-meat',
       count: 65317,
-      title: "Pizzas Made"
+      title: 'Mediterránea'
     },
     {
-      icon: "flaticon-cheese",
+      icon: 'flaticon-cheese',
       count: 4658,
-      title: "Cheese Rolls"
-    },
-    {
-      icon: "flaticon-soda",
-      count: 67335,
-      title: "Drinks Served"
+      title: 'Europea'
     }
-  ]
+  ];
 
   ngOnInit(): void {
   }

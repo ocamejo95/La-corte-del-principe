@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Agua Ciego Montero",
+    "price": 200,
+    "shortdesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been."
+  },
+  {
+    "id": 2,
+    "title": "Cerveza Nacional",
+    "price": 420,
+    "shortdesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been."
+  },
+  {
+    "id": 3,
+    "title": "Cervezas Importadas",
+    "price": 380,
+    "shortdesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been."
+  },
+  {
+    "id": 4,
+    "title": "Refrescos Importados",
+    "price": 300,
+    "shortdesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been."
+  },
+  {
+    "id": 5,
+    "title": "Limonada",
+    "price": 380,
+    "shortdesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been."
+  }
+]

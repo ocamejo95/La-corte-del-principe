@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import pizzamenu from '../../../../data/pizzamenu.json';
+import pizzamenu from '../../../../data/plato1.json';
 
 @Component({
   selector: 'app-rsmenu',

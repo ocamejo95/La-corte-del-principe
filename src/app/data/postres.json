@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Torta del Día",
+    "price": 420,
+    "shortdesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been."
+  },
+  {
+    "id": 2,
+    "title": "Copa de Helado",
+    "price": 300,
+    "shortdesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been."
+  },
+  {
+    "id": 3,
+    "title": "Café",
+    "price": 280,
+    "shortdesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been."
+  }
+]

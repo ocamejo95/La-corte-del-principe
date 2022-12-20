@@ -823,11 +823,11 @@ input[type="submit"]:disabled, button[type="submit"]:disabled {
   color: #fff;
 }
 
-.pinterest {
+.instagram {
   background-color: rgb(204, 33, 39) !important;
   color: #fff;
 }
-.pinterest:hover{
+.instagram:hover{
   background-color: #cc2127;
   color: #fff;
 }

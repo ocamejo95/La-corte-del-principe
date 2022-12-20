@@ -1,38 +1,32 @@
 [
     {
         "id": 1,
-        "title": "Pesto Pasta",
-        "price": 14.99,
+        "title": "Filete Di Manzo",
+        "price": 4250,
         "shortdesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been."
     },
     {
         "id": 2,
-        "title": "Fettucini",
-        "price": 13.99,
+        "title": "Tagliata Di Manzo",
+        "price": 4250,
         "shortdesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been."
     },
     {
         "id": 3,
-        "title": "Chicken Alfredo",
-        "price": 9.99,
+        "title": "Filete Di Pesce",
+        "price": 2850,
         "shortdesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been."
     },
     {
         "id": 4,
-        "title": "Linguini",
-        "price": 13.99,
+        "title": "Calamari Ripieni",
+        "price": 2100,
         "shortdesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been."
     },
     {
         "id": 5,
-        "title": "Mac & Cheese",
-        "price": 11.99,
-        "shortdesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been."
-    },
-    {
-        "id": 6,
-        "title": "Italian Specialty",
-        "price": 10.99,
+        "title": "Gamberi al Forno",
+        "price": 2250,
         "shortdesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been."
     }
 ]

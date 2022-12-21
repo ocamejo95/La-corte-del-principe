@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import {Component, OnInit} from '@angular/core';
 import cartitem from '../../../data/cartlist.json';
 
 @Component({
@@ -8,24 +8,32 @@ import cartitem from '../../../data/cartlist.json';
 })
 export class HeaderComponent implements OnInit {
 
-  constructor() { }
+  constructor() {
+  }
+
   // navigation
   navmethod: boolean = true;
+
   toggleNav() {
     this.navmethod = !this.navmethod;
   }
+
   // Cart
   cartmethod: boolean = true;
+
   cartToggle() {
     this.cartmethod = !this.cartmethod;
   }
+
   // Search
   searchmethod: boolean = true;
+
   searchToggle() {
     this.searchmethod = !this.searchmethod;
   }
+
   // Cart
-  public cart: { id: number}[] = cartitem;
+  public cart: { id: number }[] = cartitem;
 
   ngOnInit(): void {
   }

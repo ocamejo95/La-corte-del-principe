@@ -9,7 +9,7 @@ export class HomeComponent implements OnInit {
 
   // Footer style
   classname = "ct-footer footer-dark";
-  ftlogo = "assets/img/logo-light.png"
+  ftlogo = "assets/img/img-usar/logo/logo-blanco.webp"
   constructor() { }
 
   ngOnInit(): void {

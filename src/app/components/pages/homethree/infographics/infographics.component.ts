@@ -25,6 +25,11 @@ export class InfographicsComponent implements OnInit {
       icon: 'flaticon-cheese',
       count: 4658,
       title: 'Europea'
+    },
+    {
+      icon: 'flaticon-cheese',
+      count: 4658,
+      title: 'Japonesa'
     }
   ];
 

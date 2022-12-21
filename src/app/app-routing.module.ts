@@ -17,7 +17,7 @@ const routes: Routes = [
   { path: 'checkout', loadChildren: () => import('./components/pages/checkout/checkout.module').then(m => m.CheckoutModule), data: { breadcrumb: 'Checkout' } },
   { path: 'cart', loadChildren: () => import('./components/pages/cart/cart.module').then(m => m.CartModule), data: { breadcrumb: 'Cart' } },
   { path: 'legal', loadChildren: () => import('./components/pages/legal/legal.module').then(m => m.LegalModule), data: { breadcrumb: 'Legal' } },
-  { path: 'menu-v1', loadChildren: () => import('./components/pages/menuone/menuone.module').then(m => m.MenuoneModule), data: { breadcrumb: 'Menu v1' } },
+  { path: 'menu-v1', loadChildren: () => import('./components/pages/menuone/menuone.module').then(m => m.MenuoneModule), data: { breadcrumb: 'Menú' } },
   { path: 'menu-v2', loadChildren: () => import('./components/pages/menutwo/menutwo.module').then(m => m.MenutwoModule), data: { breadcrumb: 'Menu v2' } },
   { path: 'menu-item-v1/:id', loadChildren: () => import('./components/pages/menuitemone/menuitemone.module').then(m => m.MenuitemoneModule), data: { breadcrumb: 'Menu Item v1' } },
   { path: 'menu-item-v2/:id', loadChildren: () => import('./components/pages/menuitemtwo/menuitemtwo.module').then(m => m.MenuitemtwoModule), data: { breadcrumb: 'Menu Item v2' } },

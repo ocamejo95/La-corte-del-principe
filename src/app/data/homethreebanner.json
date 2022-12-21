@@ -1,42 +1,52 @@
 [
     {
         "id": 1,
-        "title": "Pepperoni",
+        "title": "Penne Alla Arrabiata",
         "shortdesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
         "calories": 480,
         "mozarella": 120,
         "price": 10.99,
         "rating": 4,
-        "img": "assets/img/banner/3.jpg"
+        "img": "assets/img/img-usar/banner/2.webp"
     },
     {
         "id": 2,
-        "title": "Italian",
+        "title": "Caldereta Fruti Di Mare",
         "shortdesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
         "calories": 800,
         "mozarella": 300,
         "price": 17.99,
         "rating": 3,
-        "img": "assets/img/banner/4.jpg"
+        "img": "assets/img/img-usar/banner/3.webp"
     },
     {
         "id": 3,
-        "title": "Vegetarian",
+        "title": "Espaguettis Pomodoro Basilico",
         "shortdesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
         "calories": 230,
         "mozarella": 100,
         "price": 9.99,
         "rating": 5,
-        "img": "assets/img/banner/5.jpg"
+        "img": "assets/img/img-usar/banner/asd.webp"
     },
     {
         "id": 4,
-        "title": "Swiss",
+        "title": "Calamares Rellenos",
         "shortdesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
         "calories": 650,
         "mozarella": 200,
         "price": 12.99,
         "rating": 4,
-        "img": "assets/img/banner/6.jpg"
-    }
+        "img": "assets/img/img-usar/banner/5.webp"
+    },
+  {
+    "id": 5,
+    "title": "Steak Di Manzo",
+    "shortdesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "calories": 650,
+    "mozarella": 200,
+    "price": 12.99,
+    "rating": 4,
+    "img": "assets/img/img-usar/banner/1.webp"
+  }
 ]

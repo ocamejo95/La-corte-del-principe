@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import homebanner from '../../../../data/homethreebanner.json';
 
 @Component({
-  selector: 'app-banner',
+  selector: 'app-banner3',
   templateUrl: './banner.component.html',
   styleUrls: ['./banner.component.css']
 })

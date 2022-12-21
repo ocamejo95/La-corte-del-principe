@@ -47,18 +47,12 @@
   <div class="container-fluid">
     <nav class="navbar">
       <!-- Logo -->
-      <a class="navbar-brand" routerLink="/"> <img class="logo1" alt="logo" src="assets/img/img-usar/logo/logo-negro.webp"> </a>
+      <a class="navbar-brand" routerLink="/"> <img alt="logo" class="logo1"
+                                                   src="assets/img/img-usar/logo/logo-negro.webp"> </a>
       <!-- Menu -->
       <app-menu></app-menu>
       <div class="header-controls">
         <ul class="header-controls-inner">
-          <li (click)="cartToggle()" class="cart-dropdown-wrapper cart-trigger">
-            <span class="cart-item-count">{{cart.length}}</span>
-            <i class="flaticon-shopping-bag"></i>
-          </li>
-          <li (click)="searchToggle()" class="search-dropdown-wrapper search-trigger">
-            <i class="flaticon-search"></i>
-          </li>
         </ul>
         <!-- Toggler -->
         <div (click)="toggleNav()" class="aside-toggler aside-trigger">

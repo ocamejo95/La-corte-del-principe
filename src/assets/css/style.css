@@ -1014,7 +1014,7 @@ table img{
 }
 
 .main-header.header-absolute {
-  position: absolute;
+  /*position: absolute;*/
 }
 
 .navbar {
@@ -1107,6 +1107,7 @@ table img{
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
+  text-transform: uppercase;
 }
 
 .navbar .navbar-nav > .menu-item:last-child > a{
@@ -2157,11 +2158,11 @@ table img{
 }
 
 .banner .title{
-  font-size: 62px;
-  line-height: 80px;
+  font-size: 28px;
+  line-height: 54px;
   font-family: "Oswald", sans-serif;
-  margin-bottom: 20px;
-  text-transform: uppercase;
+  margin-bottom: 15px;
+  /*text-transform: uppercase;*/
 }
 .banner .subtitle{
   color: #848486;

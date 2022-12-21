@@ -19,7 +19,8 @@ import {NewsletterComponent} from './newsletter/newsletter.component';
   declarations: [HomethreeComponent, BannerComponent, MenucategoriesComponent, InfographicsComponent, OrderctaComponent, ProcessComponent, InstagramComponent, NewsletterComponent],
   exports: [
     InfographicsComponent,
-    InstagramComponent
+    InstagramComponent,
+    BannerComponent
   ],
   imports: [
     CommonModule,

@@ -1,5 +1,5 @@
 import {Component, OnInit} from '@angular/core';
-import products from '../../../../data/product.json';
+import vinos from '../../../../data/vinos.json';
 import {NgbModal} from '@ng-bootstrap/ng-bootstrap';
 
 @Component({
@@ -20,7 +20,7 @@ export class ProductsComponent implements OnInit {
     this.modalService.open(content, {centered: true, size: 'lg', windowClass: 'customizeModal'});
   }
 
-  public products: { id: number }[] = products;
+  public products: { id: number }[] = vinos;
   settings = {
     slidesToShow: 3,
     slidesToScroll: 1,

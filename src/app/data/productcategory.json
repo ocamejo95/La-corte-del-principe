@@ -2,28 +2,28 @@
   {
     "id": 1,
     "title": "Primer Plato",
-    "img": "assets/img/categories/1.jpg",
+    "img": "assets/img/img-usar/categorias/2.webp",
     "lgimg": "assets/img/categories-lg/1.jpg",
     "shortdesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard"
   },
   {
     "id": 2,
     "title": "Segundo Plato",
-    "img": "assets/img/categories/2.jpg",
+    "img": "assets/img/img-usar/categorias/3.webp",
     "lgimg": "assets/img/categories-lg/2.jpg",
     "shortdesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard"
   },
   {
     "id": 3,
     "title": "Bebidas",
-    "img": "assets/img/categories/3.jpg",
+    "img": "assets/img/img-usar/categorias/1.webp",
     "lgimg": "assets/img/categories-lg/3.jpg",
     "shortdesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard"
   },
   {
     "id": 4,
     "title": "Postres",
-    "img": "assets/img/categories/7.jpg",
+    "img": "assets/img/img-usar/categorias/4.webp",
     "lgimg": "assets/img/categories-lg/4.jpg",
     "shortdesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard"
   }

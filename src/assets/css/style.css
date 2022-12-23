@@ -218,7 +218,7 @@ html{
   background-color: rgba(255,255,255,.4);
 }
 .dark-overlay.dark-overlay-2::before{
-  background-color: rgba(0,0,0,.6);
+  /*background-color: rgba(0,0,0,.6);*/
 }
 .light-overlay.light-overlay-2::before{
   background-color: rgba(255,255,255,.6);

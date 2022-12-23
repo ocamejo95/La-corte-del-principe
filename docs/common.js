@@ -1,0 +1,15 @@
+(window["webpackJsonp"] = window["webpackJsonp"] || []).push([["common"],{
+
+/***/ "KNXQ":
+/*!**********************************!*\
+  !*** ./src/app/data/plato1.json ***!
+  \**********************************/
+/*! exports provided: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, default */
+/***/ (function(module) {
+
+module.exports = JSON.parse("[{\"id\":1,\"title\":\"Espaguetti del Pescatore\",\"price\":1850,\"shortdesc\":\"Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been.\"},{\"id\":2,\"title\":\"Espaguetti Alla Arrabiata\",\"price\":1350,\"shortdesc\":\"Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been.\"},{\"id\":3,\"title\":\"Espaguetti Alla Amatriciana\",\"price\":1450,\"shortdesc\":\"Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been.\"},{\"id\":4,\"title\":\"Espaguetti Gamberi\",\"price\":1650,\"shortdesc\":\"Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been.\"},{\"id\":5,\"title\":\"Espaguetti Pomodoro\",\"price\":1200,\"shortdesc\":\"Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been.\"},{\"id\":6,\"title\":\"Espaguetti Aglio Olio\",\"price\":1100,\"shortdesc\":\"Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been.\"},{\"id\":7,\"title\":\"Espaguetti Alla Carbonara\",\"price\":1750,\"shortdesc\":\"Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been.\"},{\"id\":8,\"title\":\"Espaguetti Alla Bolognese\",\"price\":1650,\"shortdesc\":\"Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been.\"},{\"id\":9,\"title\":\"Tagliatelle Funghi\",\"price\":1850,\"shortdesc\":\"Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been.\"},{\"id\":10,\"title\":\"Lasagne di Ragu\",\"price\":1550,\"shortdesc\":\"Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been.\"}]");
+
+/***/ })
+
+}]);
+//# sourceMappingURL=common.js.map
